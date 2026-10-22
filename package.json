@@ -1,0 +1,39 @@
+{
+  "name": "raka-portfolio",
+  "version": "1.0.0",
+  "private": true,
+  "description": "A premium portfolio for a creative full-stack engineer, built with Next.js and a polyglot Vercel API playground.",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "eslint .",
+    "typecheck": "tsc --noEmit"
+  },
+  "engines": {
+    "node": ">=20.9.0"
+  },
+  "dependencies": {
+    "@fontsource-variable/bricolage-grotesque": "5.3.0",
+    "@fontsource-variable/jetbrains-mono": "5.3.0",
+    "@fontsource-variable/manrope": "5.3.0",
+    "@fontsource/instrument-serif": "5.3.0",
+    "clsx": "2.1.1",
+    "framer-motion": "14.5.0",
+    "lucide-react": "1.61.0",
+    "next": "16.4.2",
+    "react": "19.3.1",
+    "react-dom": "19.3.1"
+  },
+  "devDependencies": {
+    "@tailwindcss/postcss": "4.3.3",
+    "@types/node": "24.19.2",
+    "@types/react": "19.3.0",
+    "@types/react-dom": "19.3.0",
+    "eslint": "9.39.5",
+    "eslint-config-next": "16.4.2",
+    "postcss": "8.5.31",
+    "tailwindcss": "4.3.3",
+    "typescript": "5.9.3"
+  }
+}

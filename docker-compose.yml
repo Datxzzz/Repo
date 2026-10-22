@@ -1,0 +1,15 @@
+services:
+  ruby-api:
+    build: ./docker/ruby
+    ports:
+      - "4101:8080"
+
+  php-api:
+    build: ./docker/php
+    ports:
+      - "4102:8080"
+
+  java-api:
+    build: ./docker/java
+    ports:
+      - "4103:8080"

@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="100%" height="100%">
+  <!-- Background rounded square -->
+  <rect width="512" height="512" rx="120" ry="120" fill="#0d0d0d"/>
+  
+  <!-- Lime green circle -->
+  <circle cx="256" cy="256" r="180" fill="#ccff33"/>
+  
+  <!-- Letter 'Y' -->
+  <path d="M156 160 H218 L256 238 L294 160 H356 L288 280 V352 H224 V280 Z" fill="#0d0d0d"/>
+</svg>

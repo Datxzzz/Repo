@@ -1,0 +1,7 @@
+node_modules
+.next
+.vercel
+target
+docker
+*.log
+.DS_Store
